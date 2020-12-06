@@ -1,0 +1,17 @@
+[
+{
+    "name": "graphql",
+    "url": "https://graphql.talks.rishi.cx",
+    "title": "GraphQL",
+    "description": "My very first conference talk (and one of the largest—given at Hack the North 2020++, with 3000 attendees)",
+    "public": true
+},
+{
+    "name": "oss",
+    "url": "https://oss.talks.rishi.cx",
+    "title": "Open Source",
+    "description": "Another talk given at Hack the North 2020++ in collaboration with Github engineers.",
+    "public": true
+}
+
+]
