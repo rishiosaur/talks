@@ -1,11 +1,10 @@
 # LL
 
-![lint status](https://github.com/rishiosaur/ll/workflows/lint/badge.svg)
-![format status](https://github.com/rishiosaur/ll/workflows/format/badge.svg)
-![GitHub](https://img.shields.io/github/license/rishiosaur/ll)
-![GitHub issues](https://img.shields.io/github/issues/rishiosaur/ll)
-![GitHub contributors](https://img.shields.io/github/contributors/rishiosaur/ll)
-![GitHub last commit](https://img.shields.io/github/last-commit/rishiosaur/ll)
+![lint status](https://github.com/rishiosaur/talks/workflows/lint/badge.svg)
+![format status](https://github.com/rishiosaur/talks/workflows/format/badge.svg)
+![GitHub issues](https://img.shields.io/github/issues/rishiosaur/talks)
+![GitHub contributors](https://img.shields.io/github/contributors/rishiosaur/talks)
+![GitHub last commit](https://img.shields.io/github/last-commit/rishiosaur/talks)
 
 A minimal link shortener powered by Next.js and Vercel.
 
